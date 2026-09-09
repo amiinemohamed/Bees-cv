@@ -105,3 +105,11 @@ def detect_junction_points(
         return junction_points, intermediates
  
     return junction_points
+
+
+
+
+
+
+
+
